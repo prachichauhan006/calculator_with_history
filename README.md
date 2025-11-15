@@ -12,7 +12,8 @@ A basic command-line calculator built with Python. Supports operations like `+`,
 ##  How to Run
 
 ``bash
-python calculator.py
+python calculator.py  
+
 
 
 
