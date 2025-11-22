@@ -7,12 +7,13 @@ A basic command-line calculator built with Python. Supports operations like `+`,
 - Perform basic math operations
 - View history of past calculations
 - Clear calculation history
-- Input-friendly (with or without spaces)
+- Input-friendly (with or without spaces) 
 
 ##  How to Run
 
 ``bash
 python calculator.py  
+
 
 
 
